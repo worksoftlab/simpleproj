@@ -25,3 +25,7 @@ h1{
 .btn:hover{
     background-color: lightyellow;
 }
+
+h2{
+    color:red;
+}
