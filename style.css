@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+}
+
+
+.container{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 100px;
+}
+
+.btn{
+    padding:7px 20px;
+    font-size: 18px;
+    background-color: green;
+    border:none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background-color: lightyellow;
+}
